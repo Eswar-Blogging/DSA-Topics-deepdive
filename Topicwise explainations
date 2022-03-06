@@ -1,0 +1,40 @@
+ARRAYS:
+       Basics - Arrays :
+       In this you must learn to insert element by array.insert(index,element), deleting element array.pop(element or empty(means deletes last element)) , searching element 
+       
+       Arrays - Prefix:
+       It is sum of cummilative elements 
+       
+       Arrays - Carry forward:
+       It is nothing optimising your O(n2) into O(n), by using or convert traversing element into variable instead 
+       
+       Arrays - Subarrays:
+       It is a part of Contiguous array.
+       
+       Arrays - 2D arrays:
+       It is nothing matrices by indexing Array[i][j]
+       
+
+BIT MANIPULATIONS
+       
+SORTING and SEARCHING
+       
+Hashing or Dictionary in python
+       
+Strings
+       
+Recrusion
+       
+SUBSEQUENCES & SUBSETS
+
+OOPS
+
+LINKED LIST
+
+TREE BASICS
+
+QUEUES
+
+Maths - Modular Arithmetics 
+
+ 
